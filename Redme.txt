@@ -1,0 +1,9 @@
+App Setup
+API setup at Edmam
+UI creation using styled-components
+Modular Code
+Responsive UI using FLex Concept
+API integration (axios)
+Concept of Debouncing
+Dialog using Materail UI
+Improving User Experience
