@@ -8,7 +8,9 @@ The difficult task for me was to find the topic but however after research I got
 #Thank You
 visit https://pratikmore2796.github.io/ReactJsApp/
 for checking the website live
-Technology used: Bootstrap, Flexbox, HTML, CSS, ReactJS, REST API
+Technology used: Bootstrap, Flexbox, HTML, CSS, ReactJS, REST API, API Integration with Axios
 Website used to fetch data: https://www.edamam.com
 Published: Yes
 Published on : GitHub Pages and GitHub
+API Details: Edman Recipe API
+
