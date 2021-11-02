@@ -6,3 +6,9 @@ Pratik More
 #Challanges
 The difficult task for me was to find the topic but however after research I got one website. So everthing works fine.
 #Thank You
+visit https://pratikmore2796.github.io/ReactJsApp/
+for checking the website live
+Technology used: Bootstrap, Flexbox, HTML, CSS, ReactJS, REST API
+Website used to fetch data: https://www.edamam.com
+Published: Yes
+Published on : GitHub Pages and GitHub
